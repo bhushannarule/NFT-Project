@@ -26,6 +26,7 @@
 # Display the updated dataset
 # Example: Displaying the updated cumulative sales over time
 # Recalculate cumulative sales and number of sales
+![WhatsApp Image 2024-05-29 at 11 58 58 AM](https://github.com/user-attachments/assets/886fa839-2d9a-4684-b351-fec00ca894a2)
 
 
 
