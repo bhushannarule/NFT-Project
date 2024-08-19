@@ -1,31 +1,9 @@
 # NFTLyze - Real-time Analysis of NFT Market Trends - Project
-# Load the dataset
-# Convert the 'Date' column to datetime
-# Exploratory Data Analysis (EDA)
-# Plot the cumulative sales over time
-# Plot the number of sales over time
-# Correlation matrix
-# ARIMA Model
-# Prepare data for ARIMA model
-# Train ARIMA model
-# Forecast future sales
-# Evaluate ARIMA model
-# Prophet Model
-# Prepare data for Prophet model
-# Train Prophet model
-# Forecast future sales
-# Plot forecast
-# Evaluate Prophet model
-# Load the existing dataset
-# Convert 'Date' column to datetime
-# Generate mock data for the next 7 days
-# Fetch mock real-time data 
-# Convert real-time data to DataFrame
-# Convert 'Date' column to datetime
-# Append real-time data to the existing dataset
-# Display the updated dataset
-# Example: Displaying the updated cumulative sales over time
-# Recalculate cumulative sales and number of sales
+# Examined the data set containing Real - time Data Analysis information for NFT Data menu items
+# Create a Python-based dashboard using tools like Plots or Dash to visualize NFT market trends.
+# Implement a real-time data collection and updating mechanism to ensure up-to-date analysis..
+# Highlight how the analysis and insights could benefit artists, collectors, and investors in the NFT ecosystem.
+# Tools & Technology : Python , Jupiter Notebook , Excel , Html , css
 ![WhatsApp Image 2024-05-29 at 11 58 58 AM](https://github.com/user-attachments/assets/886fa839-2d9a-4684-b351-fec00ca894a2)
 
 
